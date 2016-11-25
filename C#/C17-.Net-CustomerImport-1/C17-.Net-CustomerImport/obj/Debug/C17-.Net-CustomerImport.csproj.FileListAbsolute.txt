@@ -1,0 +1,63 @@
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.exe
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.pdb
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\CustomerImport.sdf
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\input.txt
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\C17-.Net-CustomerImport.exe
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\C17-.Net-CustomerImport.pdb
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\FluentNHibernate.dll
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.dll
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\NHibernate.dll
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\System.Data.SqlServerCe.dll
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.pdb
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.xml
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\NHibernate.pdb
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\NHibernate.xml
+H:\Documents\10pines-documents\Capacitacion\C17-C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.csprojResolveAssemblyReference.cache
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\CustomerImport.sdf
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\input.txt
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\C17-.Net-CustomerImport.pdb
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\FluentNHibernate.dll
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.dll
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\NHibernate.dll
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.pdb
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.xml
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\NHibernate.pdb
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\NHibernate.xml
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.pdb
+C:\Users\Hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.csprojResolveAssemblyReference.cache
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\CustomerImport.sdf
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\input.txt
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\C17-.Net-CustomerImport.pdb
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\FluentNHibernate.dll
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.dll
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\NHibernate.dll
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\System.Data.SqlServerCe.dll
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.pdb
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.xml
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\NHibernate.pdb
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\NHibernate.xml
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.csprojResolveAssemblyReference.cache
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.pdb
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\C17-.Net-CustomerImport.exe
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.exe
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Capacitacion\C17 - TDD Avanzado\C#Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.exe
+C:\Users\hernan\Documents\Visual Studio 2012\Projects\C17-.Net-CustomerImport\C17-.Net-CustomerImport\bin\Debug\C17-.Net-CustomerImport.exe
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.exe
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.pdb
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\CustomerImport.sdf
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\input.txt
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\C17-.Net-CustomerImport.exe
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\C17-.Net-CustomerImport.pdb
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\FluentNHibernate.dll
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.dll
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\NHibernate.dll
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.pdb
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\Iesi.Collections.xml
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\NHibernate.pdb
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\bin\Debug\NHibernate.xml
+C:\Users\gmont\Source\Repos\TDD\C#\C17-.Net-CustomerImport-1\C17-.Net-CustomerImport\obj\Debug\C17-.Net-CustomerImport.csprojResolveAssemblyReference.cache
